@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '9755'
     url: http://www.gutenberg.org/2009/agents/9755
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21136#For-Fortune-and-Glory--A-Story-of-the-Soudan-War
 gutenberg_issued: '2007-04-18'
 gutenberg_type: Text
 identifiers:
